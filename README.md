@@ -45,7 +45,7 @@ I'm a Software Engineer based in Dubai with over 10 years of experience in backe
 ## 📫 Contact Me
 
 - 📍 Dubai, UAE  
-- 📧 [thairhasan.eng@gmail.com](mailto:thairhasan.eng@gmail.com)  
+- 📧 [thairhassan.eng@gmail.com](mailto:thairhassan.eng@gmail.com)  
 - 📧 [thairhasanuae@gmail.com](mailto:thairhasanuae@gmail.com)  
 - 📱 +971 58 508 5116
 
