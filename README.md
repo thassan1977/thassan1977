@@ -51,4 +51,4 @@ I'm a Software Engineer based in Dubai with over 10 years of experience in backe
 
 ---
 
-Thanks for visiting my 
+Thanks for visiting me 
